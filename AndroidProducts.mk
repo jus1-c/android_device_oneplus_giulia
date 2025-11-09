@@ -5,4 +5,5 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_giulia.mk
+    $(LOCAL_DIR)/lineage_giulia.mk \
+    $(LOCAL_DIR)/infinity_giulia.mk
