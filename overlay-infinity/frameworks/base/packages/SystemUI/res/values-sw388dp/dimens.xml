@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="tri_state_down_dialog_position">159.7dp</dimen>
-    <dimen name="tri_state_middle_dialog_position">127.7dp</dimen>
-    <dimen name="tri_state_up_dialog_position">95.8dp</dimen>
+    <dimen name="tri_state_up_dialog_position">87.3dp</dimen>
+    <dimen name="tri_state_middle_dialog_position">117.6dp</dimen>
+    <dimen name="tri_state_down_dialog_position">147.9dp</dimen>
 
-    <dimen name="tri_state_down_dialog_position_l">159.7dp</dimen>
-    <dimen name="tri_state_middle_dialog_position_l">127.7dp</dimen>
-    <dimen name="tri_state_up_dialog_position_l">95.8dp</dimen>
+    <dimen name="tri_state_up_dialog_position_l">87.3dp</dimen>
+    <dimen name="tri_state_middle_dialog_position_l">117.6dp</dimen>
+    <dimen name="tri_state_down_dialog_position_l">147.9dp</dimen>
 </resources>
