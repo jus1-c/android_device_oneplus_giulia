@@ -38,10 +38,3 @@ TARGET_HAS_UDFPS := true
 
 # Google Apps
 WITH_GAPPS := true
-
-PRODUCT_SYSTEM_PROPERTIES += \
-	ro.product.marketname=OnePlus\ Ace\ 5 \
-	ro.infinity.soc=SM8650 \
-	ro.infinity.battery=6450\ mAh \
-	ro.infinity.display=LTPO\ 1264\ x\ 2780,\ 120\ Hz \
-	ro.infinity.camera=50MP\ +\ 8MP\ +\ 2MP
